@@ -1,5 +1,10 @@
-# Mixxx
+### mixxx-streamable
 
+# A spin of mixxx with streamable music libraries (Spotify/Google Music, Youtube, etc.) 
+
+# Status: Currently in development
+
+Forked from github.com/mixxxdj/mixxx
 [Mixxx] is Free DJ software that gives you everything you need to perform live
 DJ mixes. Mixxx works on GNU/Linux, Windows, and Mac OS X.
 
