@@ -2,6 +2,18 @@
 
 ### A spin of mixxx with streamable music libraries (Spotify/Google Music, Youtube, etc.) 
 
+### Color Coding
+- ![#000000](https://placehold.it/15/000000/000000?text=+) `Not Started` 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `In Development` 
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Testable Feature`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Finished `
+
+### Status
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Google Music: 
+- ![#000000](https://placehold.it/15/000000/000000?text=+) Spotify:
+- ![#000000](https://placehold.it/15/000000/000000?text=+) Youtube:
+- ![#000000](https://placehold.it/15/000000/000000?text=+) etc..
+
 ## Status: Currently in development
 
 Forked from github.com/mixxxdj/mixxx
